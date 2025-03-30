@@ -1,0 +1,23 @@
+User-agent: *
+Allow: /
+Allow: /index.html
+Allow: /services.html
+Allow: /about.html
+Allow: /contact.html
+Allow: /sitemap.xml
+Allow: /images/
+Allow: /css/
+Allow: /js/
+
+Disallow: /cgi-bin/
+Disallow: /tmp/
+Disallow: /private/
+
+Sitemap: https://projectoronrent.online/sitemap.xml
+
+# Disallow access to specific files and directories
+Disallow: /js/
+Disallow: /css/
+Disallow: /images/placeholders/
+Disallow: /*.md$
+Disallow: /*.json$ 

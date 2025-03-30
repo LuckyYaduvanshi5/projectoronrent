@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" 
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+        xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://projectoronrent.online/</loc>
+    <lastmod>2023-06-15T08:13:54+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.00</priority>
+    <image:image>
+      <image:loc>https://projectoronrent.online/images/img/Logo.png</image:loc>
+      <image:title>Projector Rental Jaipur Logo</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://projectoronrent.online/images/img/projector.jpg</image:loc>
+      <image:title>4K Ultra HD Projector for Rent in Jaipur</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://projectoronrent.online/images/img/projector1.jpg</image:loc>
+      <image:title>Compact HD Projector Rental in Jaipur</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://projectoronrent.online/images/img/projector2.jpg</image:loc>
+      <image:title>Short-Throw Projector on Rent in Jaipur</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://projectoronrent.online/images/img/benq.jpg</image:loc>
+      <image:title>BenQ Professional Projector Rental in Jaipur</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://projectoronrent.online/images/img/projector-on-rent-in-jaipur.jpg</image:loc>
+      <image:title>Projector on Rent in Jaipur - Live Event</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://projectoronrent.online/services.html</loc>
+    <lastmod>2023-06-15T08:13:54+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://projectoronrent.online/about.html</loc>
+    <lastmod>2023-06-15T08:13:54+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.70</priority>
+  </url>
+  <url>
+    <loc>https://projectoronrent.online/contact.html</loc>
+    <lastmod>2023-06-15T08:13:54+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.70</priority>
+  </url>
+  <!-- Add additional pages if you expand the site -->
+</urlset> 
