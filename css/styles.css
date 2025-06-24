@@ -2272,7 +2272,7 @@ textarea.form-control {
 }
 
 /* ==================== BREADCRUMBS ==================== */
-.breadcrumbs-container {
+/* .breadcrumbs-container {
     background-color: rgba(248, 249, 250, 0.98);
     padding: 10px 0;
     border-bottom: 1px solid rgba(0, 0, 0, 0.05);
@@ -2308,7 +2308,7 @@ textarea.form-control {
     content: ">";
     color: var(--gray-color);
 }
-
+ */
 /* Hero badges styling */
 .hero-badges {
     display: flex;
